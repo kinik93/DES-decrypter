@@ -1,6 +1,6 @@
 # DES-decrypter
 
-A full description of this project is provided in "DES decryption.pdf"
+A full description of this project is provided in [DES decryption.pdf](https://github.com/kinik93/DES-decrypter/blob/master/DES%20decryption.pdf)
 
 Compile with: clang++ main.cpp crypt3.cpp --std=c++11 -fopenmp -o ompDES_cracker 
 
